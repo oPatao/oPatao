@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game development and cloud devops**
 
-- 📫 How to reach me **ghop2407@protonmail.com**
+- 📫 How to reach me **gabrielhopereira2407@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
